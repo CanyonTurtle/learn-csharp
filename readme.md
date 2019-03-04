@@ -1,6 +1,6 @@
 # Learn C#!
 
-Here is some helpful information for how to learn c#, starting with setting up a command-line workflow on a windows 10 computer. My hope is that this document makes it easier for you to start your journey with learning to write programs, in the best way I know from my experience. This involves essentially learning 2 fundamentals at once.
+Here is some helpful information for how to learn c#, starting with setting up a command line workflow on a windows 10 computer. My hope is that this document makes it easier for you to start your journey with learning to write programs, in the best way I know from my experience. This involves essentially learning 2 fundamentals at once.
 1) how to use the command line
 2) the basics of computer programming languages (with c# programs being the medium).
 
@@ -40,7 +40,7 @@ Line 2 will run the resulting executable.
 That should be all you need to run a c# program on the command line!
 Now, in order to make new c# programs, you can use whatever text editor you prefer (I suggest VScode or Vim), write or modify a program, save it, and then use the above steps to compile and run the program.
 
-## 3. Learn about how to write programs in the C# programming language
+## 4. Learn about how to write programs in the C# programming language
 
 Here is the best resource I know of:
 
