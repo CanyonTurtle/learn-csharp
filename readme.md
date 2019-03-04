@@ -4,7 +4,13 @@ Here is some helpful information for how to learn c#, starting with setting up a
 1) how to use the command line
 2) the basics of computer programming languages (with c# programs being the medium).
 
-## 1. Setup
+## 1. Learn enough to be fluent with the Command Line
+This pays off big time. The best resource for this is here, and you don't have to do the whole thing,
+but you can skim it at least. You will want to know the concept of files vs. directories, how to navigate to different directories, add/delete files, and move files.
+
+http://rik.smith-unna.com/command_line_bootcamp/?id=e47yelvtdtk
+
+## 2. Setup for C#
 Linux is the best command line OS, it's far better than windows CMD, so you should use it!
 - Install Windows Subsystem for Linux - https://docs.microsoft.com/en-us/windows/wsl/install-win10 This link tells you to open powershell (press the windows key and type powershell), run a command, restart your computer, and then open the windows store and search for ubuntu, and install it (it's orange). the first time you use it, it will have you set up a user account for your local computer, so do that and don't forget the password!
 
@@ -22,12 +28,7 @@ Line 2 will run the resulting executable.
 That should be all you need to run a c# program on the command line!
 Now, in order to make new c# programs, you can use whatever text editor you prefer (I suggest VScode or Vim), write or modify a program, save it, and then use the above steps to compile and run the program.
 
-## 1.5 Learn enough to be fluent with the Command Line
-This pays off big time. The best resource for this is here:
-
-http://rik.smith-unna.com/command_line_bootcamp/?id=e47yelvtdtk
-
-## 2. Learn about how to write programs in the C# programming language
+## 3. Learn about how to write programs in the C# programming language
 
 Here is the best resource I know of:
 
