@@ -17,7 +17,7 @@ Unix (an umbrella term for Linux / MacOS operating systems) is the best command 
 Next, we need a way to compile c# source code (the file you write) into c# programs. Monodevelop is a .NET platform (basically a collection of tools to work with c# in different scenarios, but for our purposes, it lets us compile and run programs on the command line).
 - go here to install monodevelop (mono) onto your ubuntu: https://www.mono-project.com/download/stable/#download-lin You should follow the instructions for ubuntu 16.04, you just copy and paste the terminal commands into the ubuntu terminal for step 1, and then run step 2.
 
-- Now, you should have the `csc` unix command.
+- Now, you should have the `csc` unix command, which is what we can use to compile c# programs!
 
 ## 3. Use this Hello World as an example!
 Open a unix shell (aka a ubuntu terminal) and you will start in your home directory, which is great. Now, what we will do is clone this repository! (That is a github / git term, meaning, get a local copy of these cloud files onto your computer). Just run:
